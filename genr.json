@@ -6,7 +6,11 @@
                 "options": [
                     "ABC",
                     "XYZ",
+<<<<<<< HEAD
                     "123 Warriros",
+=======
+                    "Golden State Warriros",
+>>>>>>> 6d1c8acd56f4cbaaa04b87992e293f6804439702
                     "Huston Rocket"
                 ],
                 "answer": "Huston Rocket"
