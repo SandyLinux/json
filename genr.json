@@ -4,10 +4,10 @@
             "q1": {
                 "question": "Which one is correct team name in NBA?",
                 "options": [
-                    "ABC",
-                    "XYZ",
-                    "branch2 line 1",
-                    "Huston Rocket"
+                    "test drive",
+                    "optional",
+                    "phonexi line 1",
+                    "playground Rocket"
                 ],
                 "answer": "Huston Rocket"
             }
